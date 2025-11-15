@@ -1,7 +1,8 @@
 # Anthropic-Mini-Hackathon 
 ## Hosted by EdinburghAI 15/11/2025
-### Team: Zeki, Fran, Peace, Ahmed (UoE Informatics students)
-### Result: Entered finals 
+
+Team: Zeki, Fran, Peace, Ahmed (UoE Informatics students)
+Result: Entered finals 
 
 Try it out: [AI Homework Assistant](https://zekikam.github.io/Anthropic-Mini-Hackathon/)
 
